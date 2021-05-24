@@ -6,7 +6,7 @@ ConsoleBundle
 [![Code Coverage](https://img.shields.io/scrutinizer/coverage/g/CoreSphere/ConsoleBundle.svg?style=flat-square)](https://scrutinizer-ci.com/g/CoreSphere/ConsoleBundle)
 
 
-This bundle allows you accessing the Symfony2 console via your browser.
+This bundle allows you accessing the Symfony 4x console via your browser.
 
 Features
 --------
@@ -24,7 +24,7 @@ Installation
 1. Install the latest version via composer:
 
 	```sh
-	composer require coresphere/console-bundle
+	composer require vicman/console-bundle
 	```
 
 2. Register the bundle in you AppKernel in the development section
