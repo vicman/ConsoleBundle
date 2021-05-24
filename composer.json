@@ -12,6 +12,10 @@
         {
             "name": "Marmus Ullman",
             "email": "mail@markus-ullmann.de"
+        }        ,
+        {
+            "name": "Victor Manuel Agudelo",
+            "email": "vicmandev@gmail.com"
         }
     ],
     "require": {
